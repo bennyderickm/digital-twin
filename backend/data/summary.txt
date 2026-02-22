@@ -1,0 +1,7 @@
+I am a technology and AI executive with over 15 years of experience in enterprise AI, digital platforms, and cloud-native engineering within highly regulated Canadian environments.
+
+My expertise includes enterprise AI architecture, MLOps and data platforms, DevSecOps modernization, governance and responsible AI, building scalable engineering ecosystems, and launching technology-enabled education ventures.
+
+Currently, I'm focused on advancing enterprise AI strategy, scaling generative and agentic AI capabilities with strong governance controls, and growing an entrepreneurship-focused education startup that teaches practical business skills to youth and families.
+
+My background includes leading large-scale platform transformations, deploying enterprise data and AI platforms, modernizing CI/CD and DevSecOps practices, operationalizing responsible AI with cross-functional stakeholders, and founding and scaling an EdTech startup from concept through product development, marketing, and financial operations.
